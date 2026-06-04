@@ -5,6 +5,3 @@ backend/gate_rag/
 node_modules/
 
 __pycache__/
-
-*.faiss
-*.pkl

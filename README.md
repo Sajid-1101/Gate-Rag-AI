@@ -34,7 +34,7 @@ The system combines semantic search with Large Language Models (LLMs) to retriev
 ### ℹ️ About Page
 
 <img src="assets/screenshots/about.png" width="900"/>
-
+---
 ## 📊 Knowledge Base
 
 GateGPT was built using a custom GATE CSE knowledge base:
